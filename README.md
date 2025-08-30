@@ -5,12 +5,12 @@ The app provides an easy way to explore, search, and manage books, with a smooth
 
 Key Features:
 
-User registration and login with Firebase Authentication.
+ - User registration and login with Firebase Authentication.
 
-Browse and view book details.
+- Browse and view book details.
 
-Search functionality for books.
+- Search functionality for books.
 
-Add books to favorites.
+- Add books to favorites.
 
-Secure cloud storage and real-time database using Firebase.
+- Secure cloud storage and real-time database using Firebase.
