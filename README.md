@@ -1,16 +1,16 @@
-# libraryapp
+📚 Library App
 
-A new Flutter project.
+A mobile application built with Flutter and integrated with Firebase for user authentication and data management.
+The app provides an easy way to explore, search, and manage books, with a smooth and modern user experience.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+User registration and login with Firebase Authentication.
 
-A few resources to get you started if this is your first Flutter project:
+Browse and view book details.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Search functionality for books.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add books to favorites.
+
+Secure cloud storage and real-time database using Firebase.
